@@ -1,0 +1,23 @@
+# Environment settings
+.env
+# Ignore virtual environment
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor settings
+.vscode/
+
+# Log or output files
+*.log
+*.zip
+*.pkl
+
+# Untracked folder
+untracked/
